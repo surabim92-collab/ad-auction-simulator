@@ -173,7 +173,7 @@ These areas explore how algorithms interact with strategic human behavior in dig
 ## How to Run
 
 Clone the repository:
-git clone https://github.com/yourusername/ad-auction-simulator.git
+git clone https://github.com/surabim92-collab/ad-auction-simulator.git
 
 Install dependencies:
 pip install -r requirements.txt
