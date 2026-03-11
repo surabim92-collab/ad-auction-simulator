@@ -170,16 +170,6 @@ Computational Economics
 
 These areas explore how algorithms interact with strategic human behavior in digital marketplaces.
 
-## How to Run
-
-Clone the repository:
-git clone https://github.com/surabim92-collab/ad-auction-simulator.git
-
-Install dependencies:
-pip install -r requirements.txt
-
-Open the notebook:
-jupyter notebook ad_auction_simulator.ipynb
 
 ## Author
 Surabi Mondal
